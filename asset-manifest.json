@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LAOURIE/BOT-BATTRL.git/static/css/main.47ff9fea.css",
+    "main.js": "/LAOURIE/BOT-BATTRL.git/static/js/main.ed7c6ab3.js",
+    "static/js/453.ad6eb26e.chunk.js": "/LAOURIE/BOT-BATTRL.git/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/LAOURIE/BOT-BATTRL.git/index.html",
+    "main.47ff9fea.css.map": "/LAOURIE/BOT-BATTRL.git/static/css/main.47ff9fea.css.map",
+    "main.ed7c6ab3.js.map": "/LAOURIE/BOT-BATTRL.git/static/js/main.ed7c6ab3.js.map",
+    "453.ad6eb26e.chunk.js.map": "/LAOURIE/BOT-BATTRL.git/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ff9fea.css",
+    "static/js/main.ed7c6ab3.js"
+  ]
+}
